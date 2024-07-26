@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Vnn04. How do you feel today?? 👋
 
 <!--
 **Vnn04/Vnn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
