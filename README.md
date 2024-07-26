@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Vnn04, I'm feel happy today 🥰. How about you??</h2>
+<h2>Hi there 👋, I'm Vnn04, I'm feeling happy today 🥰. How about you??</h2>
 
 <h3>About Me 🧑‍💻:</h3>
 <p>I'm an AI student at Vietnam National University with a passion for Mathematical and programming. I enjoy exploring various aspects of technology and creating intelligent solutions.</p>
