@@ -14,9 +14,7 @@
 </p>
 
 <div align="center">
-  <p>
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vnn04&show_icons=true&theme=vue-dark">
-  </p>
+  
   <p>
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
   </p>
