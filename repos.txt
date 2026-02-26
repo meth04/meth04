@@ -1,0 +1,12 @@
+Luas-stock:  (Python) - ★0
+tracking_news: This repo is tracking anything news affecting Vietnam Finances (Python) - ★0
+crawl_sentiment:  () - ★0
+meth04:  () - ★0
+vn_stock_rag: Hệ thống phân tích chứng khoán Việt Nam chuyên sâu sử dụng kiến trúc Multi-Agent RAG với CrewAI và Google Gemini. (Python) - ★14
+movie_website: This website applies a recommendation system and continuous learning. (EJS) - ★17
+RAG-Anything-vn-stock: "RAG-Anything: All-in-One RAG Framework" () - ★0
+model_inversion_attack_and_defend:  (Jupyter Notebook) - ★0
+Portfolio-Analytics-Dashboard: An interactive Streamlit dashboard for in‑depth portfolio analytics—combining performance metrics, risk analysis, backtesting, and optimization all in one tool. (Jupyter Notebook) - ★0
+find_hidden_object:  (Python) - ★1
+facebook_scraper:  (Jupyter Notebook) - ★0
+test:  (Python) - ★0
