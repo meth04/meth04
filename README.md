@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Nguyen Van Than (Buddy) 👋</h1>
-  <h3>🚀 4th-Year AI Student @ Vietnam National University | AI & Machine Learning Enthusiast</h3>
+  <h1>Hi there, I'm Nguyen Van Than👋</h1>
+  <h3>🚀 AI Student - Vietnam National University | AI & Machine Learning Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=meth04&style=for-the-badge&color=blue" alt="Profile Views" />
   
   <p>
