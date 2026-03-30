@@ -15,5 +15,5 @@
 </div>
 
 <div align="center">
-  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving." — Beyoncé</i>
+  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving."</i>
 </div>
