@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Nguyen Van Than👋</h1>
-  <h3>🚀 AI Student - Vietnam National University | AI & Machine Learning Enthusiast</h3>
+  <h1>Nguyen Van Than</h1>
+  <h3>AI Student - Vietnam National University</h3>
   <img src="https://komarev.com/ghpvc/?username=meth04&style=for-the-badge&color=blue" alt="Profile Views" />
   
   <p>
@@ -15,5 +15,5 @@
 </div>
 
 <div align="center">
-  <i>"Your self-worth is determined by you. You don't have to depend on someone telling you who you are." — Beyoncé</i>
+  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving." — Beyoncé</i>
 </div>
