@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nguyen Van Than</h1>
+  <h1>Buddy</h1>
   <h3>AI Student - Vietnam National University</h3>
   <img src="https://komarev.com/ghpvc/?username=meth04&style=for-the-badge&color=blue" alt="Profile Views" />
   
